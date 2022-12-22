@@ -1,0 +1,31 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+  margin-top: 5rem;
+}
+
+.info-top {
+  display: flex;
+
+  margin-left: 5rem;
+  justify-content: space-evenly;
+}
+
+.first-text {
+  font-family: Lato, sans-serif;
+  font-style: Bold;
+  font-size: 28px;
+  line-height: 42px;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.blue-text {
+  color: #00579b;
+}
+
+.bar {
+  width: 150px;
+  height: 5px;
+  background: #03acf2;
+}
